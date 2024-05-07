@@ -1,4 +1,4 @@
-# 🎭 Image Masking: Unveiling the Essence
+# 🎭 Image Masking: Unveiling the Essence (Image masking for tasks like computer vision or image segmentation)
 
 ## 🎨 Overview
 Image masking, a pivotal technique in image processing, delineates the essence of a specific region or object within an image by obscuring the irrelevant parts. In Python, this process is often referred to as segmentation or masking, aiming to isolate and emphasize the salient features or areas of interest.
